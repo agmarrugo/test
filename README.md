@@ -1,4 +1,5 @@
 # test
 A repository for testing a git workflow.
 
-I've deleted a line, and now I'm changing it.
+This line has now been entirely changed in this branch.
+I like this line better.
